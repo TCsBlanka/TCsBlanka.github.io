@@ -1,0 +1,147 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background: black;
+  height: 80px;
+  align-items: center;
+  font-size: 45px;
+  font-family: 'Moon Dance', cursive;
+  margin-top: 0;
+}
+
+button {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 70px;
+  font-family: 'Moon Dance', cursive;
+  font-size: 45px;
+  margin-bottom: 5px;
+}
+
+.LeftBox {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: colunm;
+  width: 550px;
+}
+
+h2 {
+  display: flex;
+  font-size: 35px;
+  font-family: 'Sofia Sans', sans-serif;
+  margin-bottom: 0px;
+  margin-top: 0;
+  background: maroon;
+  padding-left: 0px;
+  padding-top: 30px;
+  padding-left: 15px;
+  width: 535px;
+}
+
+h1 {
+  display: flex;
+  font-size: 70px;
+  font-family: 'Sofia Sans', sans-serif;
+  margin-top: 0;
+  margin-bottom: 20px;
+  background: maroon;
+  padding-right: 0px;
+  padding-bottom: 35px;
+  padding-left: 15px;
+  padding-right: none;
+  width: 535px;
+}
+
+.together {
+  margin-top: 344px;
+  font-size: 65px;
+}
+
+  blockquote::before {
+  content: '"';
+  font-size: 100px;
+}
+
+.IFind {
+  margin-top: 344px;
+  font-size: 65px;
+}
+
+.WhenI {
+  margin-top: 344px;
+  font-size: 65px;
+}
+
+.RightBox {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  position: absolute;
+  top: 120px;
+  left: 600px;
+  width: 700px;
+}
+  
+.analytical {
+  font-size: 30px;
+  font-family: font-family: 'Merriweather', serif;
+}
+
+ul {
+  font-size: 20px;
+  font-family: font-family: 'Merriweather', serif;
+  list-style-type: square;
+}
+
+.notable {
+  margin-top: 70px;
+  text-align: left;
+  font-family: 'Moon Dance', cursive;
+  font-size: 40px;
+}
+
+.designed {
+  font-size: 30px;
+  font-family: font-family: 'Merriweather', serif;
+}
+
+.inmy {
+  margin-top: 0px;
+  font-family: font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 30px;
+  font-family: font-family: 'Merriweather', serif;
+}
+
+.during {
+  margin-top: 0px;
+  font-family: font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+
+.sith {
+  margin-bottom: 10px;
+}
+
+h5 {
+  margin-top: 0;
+  font-family: 'Moon Dance', cursive;
+  font-size: 25px;
+}
+
+.wallys {
+  margin-bottom: 10px;
+}
+
+.fullstack {
+  margin-top: 0;
+}
+
+.green {
+  margin-bottom: 10px;
+}
